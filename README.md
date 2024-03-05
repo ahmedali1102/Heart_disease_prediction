@@ -51,7 +51,8 @@ Our data is quit balanced in terms of target variable so we going to
 approach are model with accuracy score instead of F1 score.
 ![heart 1](https://github.com/ahmedali1102/Heart_disease_prediction/assets/162327449/e4de1d2e-d926-4df1-8a39-9dd8b325f29f)
 
-![cheat sheet for outlier detection](https://github.com/ahmedali1102/Heart_disease_prediction/assets/162327449/7a94e605-d1c8-4271-a752-a828faa8be7b)
+![heart 2](https://github.com/ahmedali1102/Heart_disease_prediction/assets/162327449/4e95f7a1-e6c7-4791-a2aa-b550c3e26684)
+
 
 This shows that most columns are moderately correlated 
 with target, but 'fbs' is very weakly correlated.
