@@ -13,7 +13,7 @@ algorithms, such as logistic regression, decision trees and etc.
 factors associated with heart disease. Once trained, this model 
 can accurately predict the likelihood of individuals developing 
 heart disease based on their unique characteristics and medical 
-histor
+history
 
 ## Problem Description :
 
